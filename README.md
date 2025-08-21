@@ -2,7 +2,8 @@
 
 A clone of the Notion landing page built with ReactJS, TailwindCSS and Vite.
 
--  **Live Link**: https://
+-  **Live Link**: https://notion-landing-page-fr.vercel.app/
+-  `Notion Home Page`: https://notion.com
 
 ## Features
 
